@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_text_name">Wprowadź dowolny tekst</string>
+    <string name="button_name">Kliknij mnie</string>
+    <string name="button_clear_name">Wyczyść liste</string>
+    <string name="menu_aplikacyjne">Informacje o autorze</string>
+    <string name="menu_aplikacyjne_clear">Wyczyść listę</string>
+    <string name="author_name">author</string>
+</resources>

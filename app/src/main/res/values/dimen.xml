@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="listItemSize">20sp</dimen>
+    <dimen name="rightMarginCheckbox">5sp</dimen>
+</resources>
